@@ -1,0 +1,77 @@
+================================================================================
+ARSIP DOKUMENTASI PROMPT AI - TUGAS KOMPUTASI NUMERIK
+Nama Mahasiswa 	: Muhammad Arkananta Firdaus
+NIM          	 	: 202511420006
+Mata Kuliah	: Komputasi Numerik
+Kampus        	: Universitas Dr. Soetomo Surabaya
+================================================================================
+
+Berikut adalah daftar prompt yang digunakan selama proses bimbingan dan penyusunan 
+tugas pemrograman Komputasi Numerik (Eliminasi Gauss dan Metode Bisection):
+
+--------------------------------------------------------------------------------
+PROMPT 1: Bimbingan Awal & Strategi Pengerjaan Tugas
+--------------------------------------------------------------------------------
+User:
+"saya ada tugas dan saya minta bantuan agar bisa mengerjakan tugas dengan baik 
+dan benar sesuai dengan arahan yang ditunjukkan, jadi tolong bimbing saya untuk 
+mengerjakan tugas berikut ini agar selesai dengan hasil yang baik, benar, dan 
+mendapatkan nilai yang memuaskan. berikut ini adalah arahan dari tugasnya, 
+kira-kira mulai darimana dulu ini:
+[Daftar 13 poin tugas Komputasi Numerik]"
+
+AI Response:
+Memberikan rekomendasi pembagian tahap pengerjaan dan memulai dari Tahap 1 
+(pembuatan repository GitHub, file links.txt, dan akun pendukung).
+
+--------------------------------------------------------------------------------
+PROMPT 2: Permintaan Draf Algoritma dan Struktur Kode Python Eliminasi Gauss
+--------------------------------------------------------------------------------
+User:
+"Tolong buatkan draf algoritma penyelesaian Sistem Persamaan Linear 3 variabel 
+(Eliminasi Gauss) beserta struktur kode Python per cell untuk Google Colab."
+
+AI Response:
+Menyediakan draf algoritma Sistem Persamaan Linear 3 variabel menggunakan Metode 
+Eliminasi Gauss dan struktur kode Python yang dipecah menjadi 3 cell terpisah 
+(Inisialisasi, Eliminasi Maju, dan Substitusi Balik).
+
+--------------------------------------------------------------------------------
+PROMPT 3: Permintaan Penambahan Markdown Cell Penjelasan Kode
+--------------------------------------------------------------------------------
+User:
+"Tolong buatkan juga untuk bagian tambahkan Markdown cell di Colab berisi 
+penjelasan detail fungsi setiap baris kode nya"
+
+AI Response:
+Menyediakan draf teks penjelasan detail per baris kode dalam bentuk format 
+Markdown Cell untuk disisipkan ke Google Colab sebelum masing-masing cell kode 
+Eliminasi Gauss.
+
+--------------------------------------------------------------------------------
+PROMPT 4: Permintaan Draf Algoritma dan Kode Python Metode Bisection
+--------------------------------------------------------------------------------
+User:
+"Tolong buatkan draf algoritma penyelesaian Persamaan Non-Linear metode Bisection 
+beserta struktur kode Python per cell untuk Google Colab."
+
+AI Response:
+Menyediakan draf algoritma Persamaan Non-Linear menggunakan metode Bisection 
+(Bagi Dua) lengkap dengan kode Python per cell di Google Colab serta visualisasi 
+grafik menggunakan Matplotlib.
+
+--------------------------------------------------------------------------------
+PROMPT 5: Pembuatan Dokumentasi Arsip Prompt AI
+--------------------------------------------------------------------------------
+User:
+"Tolong buatkan draf isi file prompt_ai.txt yang merangkum seluruh prompt 
+pengerjaan tugas Komputasi Numerik ini."
+
+AI Response:
+Menyusun rekapitulasi seluruh percakapan dan prompt bimbingan ke dalam format 
+dokumen teks terstruktur `prompt_ai.txt` siap unggah ke GitHub.
+
+================================================================================
+Catatan: Seluruh kode dan algoritma telah disesuaikan dengan parameter unik 
+untuk menghindari kemiripan dokumen atau plagiarisme.
+================================================================================

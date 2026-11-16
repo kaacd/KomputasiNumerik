@@ -1,0 +1,3 @@
+GitHub: https://github.com/kaacd/KomputasiNumerik/blob/main/Muhammad%20Arkananta%20Firdaus%20(202511420006)/Muhammad_Arkananta_Firdaus_202511420006.ipynb
+Google Colab: https://colab.research.google.com/github/kaacd/KomputasiNumerik/blob/main/Muhammad%20Arkananta%20Firdaus%20(202511420006)/Muhammad_Arkananta_Firdaus_202511420006.ipynb
+LinkedIn: https://www.linkedin.com/in/muhammad-arkananta-firdaus-958074442/

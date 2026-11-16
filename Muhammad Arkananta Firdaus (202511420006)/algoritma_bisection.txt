@@ -1,0 +1,30 @@
+ALGORITMA PENYELESAIAN PERSAMAAN NON-LINIER
+METODE BISECTION (BAGI DUA)
+MATA KULIAH: KOMPUTASI NUMERIK
+
+
+A. TUJUAN
+Mencari akar dari suatu fungsi non-linear f(x) = 0 pada interval tertutup [a, b] 
+dengan prinsip membagi interval menjadi dua bagian secara berulang (iterasi) 
+hingga memenuhi tingkat toleransi error yang diinginkan.
+
+B. LANGKAH-LANGKAH ALGORITMA
+1. Mulai.
+2. Tentukan fungsi non-linear f(x) yang akan dicari akarnya.
+3. Tentukan batas bawah (a) dan batas atas (b) interval awal sedemikian rupa 
+   sehingga terjadi perubahan tanda, yaitu f(a) * f(b) < 0.
+4. Tentukan nilai toleransi error (tol) dan batas maksimum iterasi (max_iter).
+5. Inisialisasi penghitung iterasi (i = 1).
+6. Hitung nilai titik tengah interval (c):
+   c = (a + b) / 2
+7. Hitung nilai fungsi pada titik tengah, yaitu f(c).
+8. Uji kriteria pemberhentian (stopping criteria):
+   - Jika |f(c)| < tol atau setengah panjang interval |b - a| / 2 < tol, 
+     maka c adalah akar persamaan. Proses selesai.
+9. Perbarui batas interval:
+   - Jika hasil kali f(a) * f(c) < 0, maka akar berada di sub-interval kiri (tetapkan b = c).
+   - Jika tidak, akar berada di sub-interval kanan (tetapkan a = c).
+10. Jika jumlah iterasi melebihi max_iter, hentikan proses. Jika belum, 
+    tambahkan 1 pada iterasi (i = i + 1) dan kembali ke langkah 6.
+11. Tampilkan tabel riwayat iterasi dan nilai akar persamaan akhir.
+12. Selesai.

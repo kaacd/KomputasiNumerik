@@ -1,0 +1,27 @@
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINIER (SPL) 3 VARIABEL
+METODE ELIMINASI GAUSS
+MATA KULIAH: KOMPUTASI NUMERIK
+
+
+A. TUJUAN
+Menentukan nilai variabel (x, y, z) dari suatu Sistem Persamaan Linier tiga 
+variabel menggunakan metode eliminasi Gauss dengan mereduksi matriks augmented 
+menjadi bentuk matriks segitiga atas.
+
+B. LANGKAH-LANGKAH ALGORITMA
+1. Mulai.
+2. Definisikan Sistem Persamaan Linier 3 variabel ke dalam bentuk matriks augmented 
+   [A | b] berukuran 3x4.
+3. Lakukan pengecekan elemen pivot pada baris pertama kolom pertama (a_11). 
+   Jika bernilai nol, lakukan pertukaran baris untuk menghindari pembagian dengan nol.
+4. Lakukan Fase Eliminasi Maju (Forward Elimination):
+   - Hitung faktor pengali (multiplier) untuk baris ke-2 dan baris ke-3 terhadap baris ke-1.
+   - Kurangkan baris ke-2 dan baris ke-3 dengan hasil kali faktor pengali dan baris pivot 
+     sehingga elemen di bawah diagonal utama pada kolom pertama bernilai nol.
+   - Ulangi proses serupa untuk mengenolkan elemen di bawah diagonal utama pada kolom kedua.
+5. Lakukan Fase Substitusi Balik (Back Substitution):
+   - Hitung nilai variabel terakhir (z atau x_3) dari baris terbawah.
+   - Substitusikan nilai z ke persamaan baris kedua untuk mendapatkan nilai y (atau x_2).
+   - Substitusikan nilai y dan z ke persamaan baris pertama untuk mendapatkan nilai x (atau x_1).
+6. Tampilkan hasil akhir nilai x, y, dan z.
+7. Selesai.
