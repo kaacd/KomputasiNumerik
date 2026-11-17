@@ -1,3 +1,5 @@
-GitHub: https://github.com/kaacd/KomputasiNumerik/blob/main/Muhammad%20Arkananta%20Firdaus%20(202511420006)/Muhammad_Arkananta_Firdaus_202511420006.ipynb
-Google Colab: https://colab.research.google.com/github/kaacd/KomputasiNumerik/blob/main/Muhammad%20Arkananta%20Firdaus%20(202511420006)/Muhammad_Arkananta_Firdaus_202511420006.ipynb
-LinkedIn: https://www.linkedin.com/in/muhammad-arkananta-firdaus-958074442/
+GitHub = https://github.com/kaacd/KomputasiNumerik/blob/main/Muhammad%20Arkananta%20Firdaus%20(202511420006)/
+Google Colab (SPLTV Metode Gauss) = https://colab.research.google.com/github/kaacd/KomputasiNumerik/blob/main/Muhammad%20Arkananta%20Firdaus%20(202511420006)/Sistem%20Persamaan%20Linear%203%20Variabel%20Metode%20Eliminasi%20Gauss.ipynb#scrollTo=SfWt7tEA_5Jg
+Google Colab (SP Non-Linear Metode Bisection) = https://colab.research.google.com/github/kaacd/KomputasiNumerik/blob/main/Muhammad%20Arkananta%20Firdaus%20(202511420006)/Sistem%20Persamaan%20Non%20Linear%20Metode%20Bisection.ipynb#scrollTo=jmzp9AiLZcAJ
+LinkedIn = https://www.linkedin.com/in/muhammad-arkananta-firdaus-958074442/
+GDrive = https://drive.google.com/drive/folders/1O_wAT9Bva6sLHYa6u2tN-09lcq-9NU0O?usp=sharing
